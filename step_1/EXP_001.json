@@ -1,0 +1,122 @@
+[
+    {
+        "date":1641376800000,
+        "cell_type":{
+            "id":1,
+            "name":"Neuron",
+            "location":"Brain",
+            "function":"Signal processing"
+        },
+        "environment":{
+            "id":11,
+            "name":"In vivo",
+            "condition":"Healthy",
+            "medium":"Blood",
+            "temperature":"37\u00b0C"
+        },
+        "cell_response":9.2,
+        "duration":110,
+        "treatment":"Drug A",
+        "status":"Completed"
+    },
+    {
+        "date":1641996000000,
+        "cell_type":{
+            "id":2,
+            "name":"Lymphocyte",
+            "location":"Blood",
+            "function":"Immune response"
+        },
+        "environment":{
+            "id":12,
+            "name":"In vivo",
+            "condition":"Healthy",
+            "medium":"Blood",
+            "temperature":"37\u00b0C"
+        },
+        "cell_response":6.7,
+        "duration":90,
+        "treatment":"Drug B",
+        "status":"Completed"
+    },
+    {
+        "date":1643706000000,
+        "cell_type":{
+            "id":3,
+            "name":"Myocyte",
+            "location":"Muscle",
+            "function":"Muscle contraction"
+        },
+        "environment":{
+            "id":14,
+            "name":"In vivo",
+            "condition":"Healthy",
+            "medium":"Interstitial fluid",
+            "temperature":"37\u00b0C"
+        },
+        "cell_response":7.8,
+        "duration":95,
+        "treatment":"Drug D",
+        "status":"Completed"
+    },
+    {
+        "date":1644923700000,
+        "cell_type":{
+            "id":4,
+            "name":"Hepatocyte",
+            "location":"Liver",
+            "function":"Detoxification"
+        },
+        "environment":{
+            "id":16,
+            "name":"In vivo",
+            "condition":"Stressed",
+            "medium":"Blood",
+            "temperature":"37\u00b0C"
+        },
+        "cell_response":7.2,
+        "duration":110,
+        "treatment":"Drug E",
+        "status":"Ongoing"
+    },
+    {
+        "date":1613387700000,
+        "cell_type":{
+            "id":4,
+            "name":"Hepatocyte",
+            "location":"Liver",
+            "function":"Detoxification"
+        },
+        "environment":{
+            "id":16,
+            "name":"In vivo",
+            "condition":"Stressed",
+            "medium":"Blood",
+            "temperature":"37\u00b0C"
+        },
+        "cell_response":3.2,
+        "duration":110,
+        "treatment":"Drug E",
+        "status":"Ongoing"
+    },
+    {
+        "date":1646049600000,
+        "cell_type":{
+            "id":1,
+            "name":"Neuron",
+            "location":"Brain",
+            "function":"Signal processing"
+        },
+        "environment":{
+            "id":18,
+            "name":"In vivo",
+            "condition":"Stressed",
+            "medium":"Cerebrospinal fluid",
+            "temperature":"36\u00b0C"
+        },
+        "cell_response":8.5,
+        "duration":135,
+        "treatment":"Drug G",
+        "status":"Ongoing"
+    }
+]
